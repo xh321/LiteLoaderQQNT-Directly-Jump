@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "type": "extension",
+  "name": "directly_jump",
+  "slug": "directly_jump",
+  "description": "外链直接跳转，而不经过拦截页",
+  "version": "0.1.0",
+  "author": [
+    {
+      "name": "XiaoHe321",
+      "link": "https://github.com/xh321"
+    }
+  ],
+  "injects": {
+    "main": "./main.js"
+  }
+}
