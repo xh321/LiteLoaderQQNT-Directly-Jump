@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "type": "extension",
-  "name": "directly_jump",
+  "name": "链接跳转",
   "slug": "directly_jump",
   "description": "外链直接跳转，而不经过拦截页",
   "version": "0.1.0",
