@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "type": "extension",
-    "name": "链接跳转",
+    "name": "打开链接跳过拦截页",
     "slug": "directly_jump",
     "description": "QQNT内打开外链直接跳转，而不经过拦截页",
     "version": "0.1.1",
