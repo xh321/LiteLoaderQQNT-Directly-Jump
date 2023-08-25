@@ -5,7 +5,9 @@ LiteLoaderQQNT插件，用于点击连接时自动跳转，而不用经过PCQQ�
 
 ## 使用方法
 
-clone或下载zip文件解压，保留文件夹结构（文件夹名称为`插件名`，内容为github上的内容），将文件夹移动至`LiteLoaderQQNT数据目录/plugins/`下面，重启QQNT即可。
+建议从`LiteLoaderQQNT`应用商店中直接下载安装，方便快捷。
+
+也可以clone或下载zip文件解压，保留文件夹结构（文件夹名称为`插件名`，内容为github上的内容），将文件夹移动至`LiteLoaderQQNT数据目录/plugins/`下面，重启QQNT即可。
 
 随后点击任何连接，都会直达目标站点，不会再显示风险拦截页。
 
