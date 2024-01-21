@@ -1,5 +1,3 @@
-function onLoad(plugin) {}
-
 function onBrowserWindowCreated(window) {
     const original_send =
         (window.webContents.__qqntim_original_object &&
@@ -25,6 +23,5 @@ function onBrowserWindowCreated(window) {
 }
 
 module.exports = {
-    onLoad,
     onBrowserWindowCreated
 };
