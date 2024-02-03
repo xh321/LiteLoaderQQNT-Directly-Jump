@@ -14,7 +14,10 @@
     ],
     "repository": {
         "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
-        "branch": "master"
+        "branch": "master",
+        "release": {
+            "tag": "0.1.2"
+        }
     },
     "platform": ["win32", "darwin", "linux"],
     "injects": {
