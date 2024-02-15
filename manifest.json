@@ -1,10 +1,10 @@
 {
     "manifest_version": 4,
     "type": "extension",
-    "name": "打开链接跳过拦截页",
+    "name": "使用自定义浏览器打开链接并跳过拦截页",
     "slug": "directly_jump",
-    "description": "QQNT内打开外链直接跳转，而不经过拦截页",
-    "version": "0.1.2",
+    "description": "QQNT内打开外链直接跳转，而不经过拦截页；同时你还可以自定义浏览器，而不一定是默认浏览器打开链接。",
+    "version": "0.1.3",
     "icon": "./icon.png",
     "authors": [
         {
@@ -16,7 +16,7 @@
         "repo": "xh321/LiteLoaderQQNT-Directly-Jump",
         "branch": "master",
         "release": {
-            "tag": "0.1.2"
+            "tag": "0.1.3"
         }
     },
     "platform": ["win32", "darwin", "linux"],
