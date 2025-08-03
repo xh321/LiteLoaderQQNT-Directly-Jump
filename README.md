@@ -3,6 +3,8 @@
 LiteLoaderQQNT插件，用于点击连接时自动跳转，而不用经过PCQQ的拦截页。
 使用前需要安装[LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT)，并在QQNT新版上使用。
 
+强烈建议加TG频道 https://t.me/+UwFw2Ff-8scyOWY1 来蹲更新/公告
+
 ## 使用方法
 
 直接在本仓库Release中下载zip，然后在LiteLoaderQQNT配置界面中选择插件压缩包导入即可
